@@ -4,8 +4,8 @@ Sistema moderno de consulta de CPF e CNPJ com interface web elegante, hospedado 
 
 ## ✨ Características
 
-- �� **Consulta CPF/CNPJ**: Validação e formatação automática
-- �� **Interface Moderna**: Design responsivo com tema detetive
+- 🔍 **Consulta CPF/CNPJ**: Validação e formatação automática
+- 🎨 **Interface Moderna**: Design responsivo com tema detetive
 - 🌙 **Modo Escuro/Claro**: Alternância automática
 - 📱 **Responsivo**: Funciona em desktop e mobile
 - 💾 **Histórico Local**: Armazenamento no navegador
@@ -13,9 +13,9 @@ Sistema moderno de consulta de CPF e CNPJ com interface web elegante, hospedado 
 
 ## 🚀 Acesso
 
-**🌐 Site Online**: [https://seu-usuario.github.io/detetive](https://seu-usuario.github.io/detetive)
+**🌐 Site Online**: [https://giga64.github.io/DETETIVE](https://giga64.github.io/DETETIVE)
 
-## �� Estrutura
+## 📁 Estrutura
 
 ```
 detetive/
@@ -23,12 +23,14 @@ detetive/
 ├── README.md           # Este arquivo
 ├── .github/workflows/  # Configuração de deploy
 │   └── deploy.yml
-└── CNAME              # Domínio personalizado (opcional)
+└── static/             # Arquivos estáticos
+    ├── style.css
+    └── detective.js
 ```
 
-## ️ Como Usar
+## 🎯 Como Usar
 
-1. **Acesse o site**: Abra [https://seu-usuario.github.io/detetive](https://seu-usuario.github.io/detetive)
+1. **Acesse o site**: Abra [https://giga64.github.io/DETETIVE](https://giga64.github.io/DETETIVE)
 
 2. **Digite o documento**: CPF ou CNPJ (formatação automática)
 
@@ -59,7 +61,7 @@ detetive/
 
 ### Interface
 - 🌙 Alternância de tema
--  Design responsivo
+- 📱 Design responsivo
 - ⚡ Animações suaves
 - 💾 Histórico local
 
@@ -81,15 +83,6 @@ git push origin main
 ```
 3. O GitHub Actions fará o deploy automaticamente
 
-## 🌐 Domínio Personalizado
-
-Para usar um domínio personalizado:
-
-1. Compre um domínio
-2. Configure DNS apontando para `seu-usuario.github.io`
-3. Edite o arquivo `CNAME` com seu domínio
-4. Configure no GitHub: Settings > Pages > Custom domain
-
 ## 🤝 Contribuição
 
 1. Faça fork do projeto
@@ -104,11 +97,10 @@ MIT License - veja o arquivo `LICENSE` para detalhes.
 
 ## 🆘 Suporte
 
-- 📧 Email: seu-email@exemplo.com
-- 🐛 Issues: [GitHub Issues](https://github.com/seu-usuario/detetive/issues)
-- 💬 Discussões: [GitHub Discussions](https://github.com/seu-usuario/detetive/discussions)
+- 📧 Email: giga64@github.com
+- 🐛 Issues: [GitHub Issues](https://github.com/giga64/DETETIVE/issues)
+- 💬 Discussões: [GitHub Discussions](https://github.com/giga64/DETETIVE/discussions)
 
 ---
 
-⭐ Se este projeto te ajudou, considere dar uma estrela no repositório!
-``` 
+⭐ Se este projeto te ajudou, considere dar uma estrela no repositório! 
